@@ -24,7 +24,7 @@
 | 1    | **Curva de convergência** de custo do GD (uma linha por variante de normalização)                                             |
 | 2    | **Comparação direta** entre menor custo obtido por GD × NE                                                                    |
 | 3    | **Plano de regressão 3‑D** (tamanho × quartos × preço) ajustado com θ<sub>GD</sub>, sobre pontos de treino                    |
-| 4    | **Superfície** e **contorno** de \( J(\theta_1,\theta_2) \) com trajetória do GD e ponto da NE (θ normalizado)            |
+| 4    | **Superfície** e **contorno** de ( J(θ1,θ2) com trajetória do GD e ponto da NE (θ normalizado)            |
 
 ---
 
