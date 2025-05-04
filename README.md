@@ -34,7 +34,7 @@
 ```
 @autor:                Emanuel Lopes Silva
 @contato:              emanuelsilva.slz@gmail.com
-@data última versão:   28/04/2025
+@data última versão:   03/05/2025
 @versão:               2.0
 @outros repositórios:  (https://github.com/EmanuelSilva69)
 @Agradecimentos:       Universidade Federal do Maranhão (UFMA),
